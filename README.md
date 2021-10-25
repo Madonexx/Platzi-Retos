@@ -1,0 +1,1 @@
+This is the first Platzi Challenge to create a list of things to buy at the supermaket.
